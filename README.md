@@ -99,8 +99,8 @@ I enjoy building:
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: *(add your link)*
-- 🧑‍💻 GitHub: https://github.com/<your-username>
+- 💼 LinkedIn: https://www.linkedin.com/in/rahul-prasad-7a12b5325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🧑‍💻 GitHub: https://github.com/rahulpd1321
 
 ---
 
