@@ -102,7 +102,7 @@ Kafka Database
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulpd1321&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
