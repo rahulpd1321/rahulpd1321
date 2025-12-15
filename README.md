@@ -1,77 +1,95 @@
 <h1 align="center">Hi 👋, I'm Rahul Prasad</h1>
-<h3 align="center">Java Backend Engineer | System Design | Cloud & Distributed Systems</h3>
 
 <p align="center">
-  <i>Designing scalable backend systems with clean architecture & real-world engineering principles.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Engineer;Spring+Boot+%7C+System+Design+%7C+Microservices;Building+Scalable+Production-Ready+Systems;Targeting+FAANG+%7C+Top+Product+Companies" />
+</p>
+
+<p align="center">
+  <b>Backend Engineer focused on scalability, clean architecture, and distributed systems.</b>
 </p>
 
 ---
 
-## 🚀 Who Am I?
+## 🚀 About Me
 
-💡 A **Backend-focused Software Engineer** specializing in **Java & Spring Boot**,  
-with a strong foundation in **system design, databases, and distributed systems**.
-
-I enjoy building:
-- 🔹 Clean & scalable REST APIs  
-- 🔹 Secure authentication systems  
-- 🔹 Microservices with real-world architecture  
-- 🔹 Cloud-ready & containerized applications  
+- 💻 **Java Backend Engineer** with strong CS fundamentals  
+- 🧠 Deep understanding of **System Design (HLD + LLD)**  
+- ⚙️ Experienced with **Spring Boot, Microservices & REST APIs**  
+- ☁️ Hands-on with **AWS, Docker & Kubernetes**  
+- 📚 Learn via **documentation-first approach (GFG + Official Docs)**  
+- 🎯 Targeting **FAANG / 30–50 LPA Product Roles**
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Core Tech Stack
 
-### ⚙️ Backend Development
-- **Java** (OOP, Collections, Multithreading, Java 8, Streams)
-- **Spring Boot**, Spring MVC
-- **Spring Data JPA (Hibernate)**
-- **Spring Security** (JWT, Role-based authentication)
-- REST API Design & Layered Architecture
+### 🧑‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🗄 Databases & Storage
-- **MySQL / PostgreSQL**
-- DBMS Concepts:  
-  - Normalization  
-  - Indexing  
-  - Transactions  
-  - ACID Properties  
-  - Concurrency Control  
+### ⚙️ Backend Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 
-### 🔁 Microservices & Messaging
-- Microservices Architecture (Fundamentals)
-- Service Discovery (Eureka – basics)
-- API Gateway Concepts
-- **Apache Kafka** (Producers, Consumers, Event-driven systems)
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+### 🔁 Distributed Systems
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka)
 
 ### ☁️ Cloud & DevOps
-- **Git & GitHub**
-- **Docker**, Docker Compose
-- **AWS** (EC2, S3, RDS, IAM)
-- **Kubernetes** (Pods, Deployments, Services)
-- CI/CD basics
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
-### 🌐 UI (Backend-Friendly)
-- HTML, CSS, Bootstrap
-- **Thymeleaf**
-- UI/UX Design using **Figma**
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 🧩 System Design
+## 🧩 System Design (FAANG-Oriented)
 
-📐 Learning & applying **industry-level system design** concepts:
+✔ High Level Design (HLD)  
+✔ Low Level Design (LLD)  
+✔ Scalability & Availability  
+✔ Load Balancing & Caching  
+✔ Message Queues & Event Streaming  
+✔ Database Sharding & Indexing  
+✔ CAP Theorem & Consistency  
 
-- High Level Design (HLD)
-- Low Level Design (LLD)
-- Scalability & Availability
-- Load Balancing & Caching
-- Message Queues & Event-driven Architecture
-- Case Studies (URL Shortener, E-commerce, Social Platforms)
-
-📚 Preparation guided by **Striver (Take U Forward)**
+📚 Preparation via **Striver – Take U Forward**
 
 ---
+
+## 🏗 Backend Architecture (Typical Project)
+
+```text
+Client
+  |
+  |  HTTP/HTTPS (REST)
+  v
+API Gateway
+  |
+  |  Authentication / Rate Limiting
+  v
+Microservices (Spring Boot)
+  |
+  |-- User Service
+  |-- Order Service
+  |-- Payment Service
+  |
+  v
+Message Broker (Kafka)
+  |
+  v
+Database (RDBMS)
+  |
+  v
+Cache (Redis)
+
+---
+
 
 ## 🛠️ Projects (Production Mindset)
 
