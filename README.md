@@ -106,7 +106,7 @@ Kafka Database
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpd1321&theme=tokyonight" />
 </p>
 
 ---
